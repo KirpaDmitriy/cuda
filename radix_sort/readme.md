@@ -79,6 +79,9 @@ Padded Size (for Bitonic): 1048576
 
 ![График NVIDIA](https://developer.download.nvidia.com/books/gpugems3/39fig07.jpg)
 
+### TODO:
+- Сравнить перф разных стадий
+- nvcc
 
 ### Хорошие документации:
 - https://developer.nvidia.com/gpugems/gpugems3/part-vi-gpu-computing/chapter-39-parallel-prefix-sum-scan-cuda
